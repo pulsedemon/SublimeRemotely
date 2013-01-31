@@ -9,8 +9,10 @@ For this plugin to work, you need to create a map between a local directory and 
 
 Add this to your Sublime user settings file:
 
-`"remotely_filepaths": {`  
-`"/Path/to/local/directory": "/usr/bin/scp $1 username@server.com:/Path/to/remote/directory$2"`  
-`}`  
+```js
+"remotely_filepaths": {
+  "/Path/to/local/directory": "/usr/bin/scp $1 username@server.com:/Path/to/remote/directory$2"
+}
+```
 
 ### More to come soon...
