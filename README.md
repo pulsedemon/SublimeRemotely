@@ -1,3 +1,7 @@
+#Remotely for Sublime Text
+
+Keep local files in sync with a remote copy
+
 ## Installation
 
 1. Add the GitHub url to Package Control `https://github.com/pulsedemon/SublimeRemotely`
