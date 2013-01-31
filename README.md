@@ -2,6 +2,10 @@
 
 Keep local files in sync with a remote copy
 
+##Requirements
+1. Linux or OSX
+2. Sublime
+
 ## Installation
 
 1. Add the GitHub url to Package Control `https://github.com/pulsedemon/SublimeRemotely`
@@ -19,4 +23,6 @@ Add this to your Sublime user settings file:
 }
 ```
 
-### More to come soon...
+Feel free to change the file transfer protocol.
+
+####More to come soon…####
