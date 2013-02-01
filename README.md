@@ -1,4 +1,4 @@
-#Remotely for Sublime Text
+![remotely logo](https://raw.github.com/pulsedemon/SublimeRemotely/7f5b52099e94fe63336804c79c3fff6b02165445/remotely.png)
 
 Keep local files in sync with a remote copy
 
